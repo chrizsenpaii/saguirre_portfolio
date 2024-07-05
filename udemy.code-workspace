@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "udemy",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "5.3 CSS Selectors"
+	}
+}

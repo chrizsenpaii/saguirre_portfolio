@@ -1,0 +1,21 @@
+.background-color{
+    background-color: #F4F6FC;
+}
+.background-color-black{
+    background-color: #222831;
+}
+
+h1{
+    
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5px;
+    
+}
+p{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
